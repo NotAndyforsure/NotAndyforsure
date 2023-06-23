@@ -31,6 +31,22 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
+ ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EufranioDiogo&theme=radical)
+
+
+<center>
+<table>
+    <tr>
+      <td>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NotAndyforsure&theme=buefy"/>
+      </td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndyforsure&layout=compact&theme=buefy" />
+      </td>
+    </tr>
+</table>
+</center>
+
 <details>
  <summary><h3>👨‍💻 Andy's Coding Journey</h3></summary>
   <p>
