@@ -25,7 +25,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotAndyforsure&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=NotAndyforsure&theme=gruvbox&border_radius=4.5) -->
 
@@ -33,14 +33,23 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <details>
  <summary><h3>👨‍💻 Andy's Coding Journey</h3></summary>
-   I started my coding journey after a realised that when you go into a profession that's not within your personal goals you will never succeed. I was very sad but after pulling that daily 11hrs work (monday-saturday) i would stay up and learn from open source resources.
+  <p>
+      I started my coding journey after a realised that when you go into a profession that's not within your personal goals you will never succeed. I was very sad but after pulling that daily 11hrs work (monday-saturday) i would stay up and learn from open source resources.
+  </p>
+ 
+<p>
+   After 6 months i was all over the place but satisfied to build non responsive ugly ui's, but i knew i needed structure. Like most wise devs i visited stackoverflow and reddit and found out about Freecodecamp, Odin Project, Fullstack Open, Scrimba, Ossu commputer science.
+</p>
 
-  After 6 months i was all over the place but satisfied to build non responsive ugly ui's but i knew i needed structure. Like most wise devs i visited stackoverflow and reddit and found out about Freecodecamp, Odin Project, Fullstack Open, Scrimba, Ossu commputer science.
-
+<p>
+  
   Now that i finished with all except ossu(still learning), i plan to build for the next generation and be part of the future especially the future of open source.
+</p>
+ 
 
-  Thank you for reading this.
 
-  Have a great day!
+ <h1>Thank you for reading this.</h1> 
+
+  <h1>Have a great day!</h1>
 </details>
 
