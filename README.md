@@ -31,7 +31,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
- ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EufranioDiogo&theme=radical)
+ ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotAndyforsure&theme=radical)
 
 
 <center>
