@@ -53,18 +53,13 @@ I'm an indie full-stack developer and content creator building my version of the
 <details>
  <summary><h3>👨‍💻 Andy's Coding Journey</h3></summary>
   <p>
-      I started my coding journey after a realised that when you go into a profession that's not within your personal goals you will never succeed. I was very sad but after pulling that daily 11hrs work (monday-saturday) i would stay up and learn from open source resources.
+     I was pondering on how people make software for a while in 2020, and since i was a user of software and a PLC programmer in my job role, i made a hobby of learning to develop software from start to finish.
   </p>
- 
-<p>
-   After 6 months i was all over the place but satisfied to build non responsive ugly ui's, but i knew i needed structure. Like most wise devs i visited stackoverflow and reddit and found out about Freecodecamp, Odin Project, Fullstack Open, Scrimba, Ossu commputer science.
-</p>
 
-<p>
-  
-  Now that i finished with all except ossu(still learning), i plan to build for the next generation and be part of the future especially the future of open source.
-</p>
- 
+   <p>
+   It has been fun,rewarding and humbling
+  </p>
+
 
 
  <h1>Thank you for reading this.</h1> 
